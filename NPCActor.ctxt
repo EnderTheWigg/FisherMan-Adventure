@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NPCActor
+comment0.text=\r\n\ Creates\ movable\ sprite\ that\ cannot\ be\ affected\ by\ the\ player\r\n\ Autonomous\ actor\r\n
+comment1.params=
+comment1.target=NPCActor()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NPCActor\r\n
+comment2.params=a
+comment2.target=void\ setAnimation(Animation)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ move()
+numComments=5

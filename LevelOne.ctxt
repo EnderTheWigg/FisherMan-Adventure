@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelOne
+comment0.text=\r\n\ Creates\ world\ 1\r\n\ Bottom\ row\ is\ filled\ with\ ground\ tiles\r\n
+comment1.params=
+comment1.target=LevelOne()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelOne\r\n
+comment2.params=tileArr
+comment2.target=java.lang.String[][]\ buildWorld(java.lang.String[][])
+numComments=3
